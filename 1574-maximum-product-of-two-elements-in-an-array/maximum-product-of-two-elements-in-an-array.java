@@ -3,7 +3,6 @@ class Solution {
         
         int  n = nums.length;
 
-        Arrays.sort(nums);
         int maxi = 0;
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
