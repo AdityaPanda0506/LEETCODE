@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0601-human-traffic-of-stadium](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0601-human-traffic-of-stadium) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
