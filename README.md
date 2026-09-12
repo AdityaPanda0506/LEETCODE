@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
 | ------- |
