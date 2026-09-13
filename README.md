@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0621-task-scheduler](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0621-task-scheduler) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
@@ -69,9 +70,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0130-surrounded-regions) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0130-surrounded-regions) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0130-surrounded-regions) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
