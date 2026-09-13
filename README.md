@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdityaPanda0506/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdityaPanda0506/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0130-surrounded-regions) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdityaPanda0506/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdityaPanda0506/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
