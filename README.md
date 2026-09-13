@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1189-maximum-number-of-balloons](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
