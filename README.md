@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0621-task-scheduler) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0844-backspace-string-compare) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
