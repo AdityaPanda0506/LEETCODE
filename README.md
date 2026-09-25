@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AdityaPanda0506/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/AdityaPanda0506/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AdityaPanda0506/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
